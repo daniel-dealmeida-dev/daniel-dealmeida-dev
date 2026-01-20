@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Daniel de Almeida
+#  Olá, eu sou Daniel de Almeida
 
 Sou estudante de Engenharia de Software de Gaspar, SC, Brasil.  
 Apaixonado por desenvolvimento backend, APIs e aprendizado contínuo. Sempre explorando novas tecnologias e criando projetos para resolver problemas reais.
