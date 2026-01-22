@@ -1,7 +1,7 @@
 #  Olá, eu sou Daniel de Almeida
 
 Sou estudante de informática em Gaspar, SC, Brasil.  
-Apaixonado por desenvolvimento backend, APIs em aprender cada vez mais. Sempre explorando novas tecnologias e criando projetos para resolver problemas reais.
+Apaixonado por desenvolvimento backend, APIs e em aprender cada vez mais. Sempre explorando novas tecnologias e criando projetos para resolver problemas reais.
 
 ##  Linguagens de Programação
 
