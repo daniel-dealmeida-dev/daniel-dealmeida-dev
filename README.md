@@ -67,5 +67,5 @@ Apaixonado por desenvolvimento backend, APIs e em aprender cada vez mais. Sempre
 
 ##  Contato
 - Email: daniel.dealmeida.dev@gmail.com  
-- LinkedIn: [Daniel de Almeida]([https://www.linkedin.com/in/daniel-de-almeida/](https://www.linkedin.com/in/daniel-de-almeida-dev/))  
+- LinkedIn: [Daniel de Almeida](www.linkedin.com/in/daniel-de-almeida-dev)  
 - GitHub: [daniel-dealmeida-dev](https://github.com/daniel-dealmeida-dev)
