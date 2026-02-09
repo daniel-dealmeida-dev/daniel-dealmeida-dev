@@ -1,7 +1,7 @@
 # 🌐 Olá, eu sou Daniel de Almeida
 
 Sou estudante de informática em Gaspar, SC, Brasil.  
-Apaixonado por desenvolvimento **Backend, Web3 e APIs**. Atualmente focado em construir aplicações descentralizadas (dApps), automações de dados e sistemas robustos que resolvem problemas reais.
+Apaixonado por desenvolvimento **Backend, Web3 e APIs**. Atualmente focado em construir projetos pessoais e em busca de vagas de Júnior ou estágiario.
 
 ##  Web3 & Blockchain
 ![Blockchain](https://img.shields.io/badge/Blockchain-333333?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
