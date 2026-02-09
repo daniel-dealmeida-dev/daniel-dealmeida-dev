@@ -58,5 +58,4 @@ Apaixonado por desenvolvimento **Backend, Web3 e APIs**. Atualmente focado em co
 
 ## 📫 Contato
 - **LinkedIn**: [Daniel de Almeida](https://www.linkedin.com/in/daniel-de-almeida-dev)
-- **GitHub**: [daniel-dealmeida-dev](https://github.com/daniel-dealmeida-dev)
 - **Email**: daniel.dealmeida.dev@gmail.com
