@@ -1,13 +1,7 @@
 # Olá, eu sou Daniel de Almeida
 
 Sou estudante de informática em Gaspar, SC, Brasil.  
-Apaixonado por desenvolvimento **Backend, Web3 e APIs**. Atualmente focado em construir projetos pessoais e em busca de vagas de Júnior ou estágiario.
-
-##  Web3 & Blockchain
-![Blockchain](https://img.shields.io/badge/Blockchain-333333?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi-black?style=for-the-badge&logo=wagmi&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-%23E2761B.svg?style=for-the-badge&logo=metamask&logoColor=white)
+Apaixonado por desenvolvimento **Backend e APIs**. Atualmente focado em construir projetos pessoais e em busca de vagas de Júnior ou estágiario.
 
 ##  Frontend & Web Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
