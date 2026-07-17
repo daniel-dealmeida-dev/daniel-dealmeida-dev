@@ -1,7 +1,7 @@
 # Olá, eu sou Daniel de Almeida
 
-Sou estudante de informática no IFSC em Gaspar, SC, Brasil.  
-Priorizando o desenvolvimento de **Backend e APIs**. Atualmente focado em construir projetos pessoais e em busca de vagas de Júnior ou estágiario.
+Sou técnico em informática pelo IFSC em Gaspar, SC, Brasil.  
+Priorizando o desenvolvimento de **Backend e APIs**. Atualmente focado em construir projetos pessoais e em busca de vagas de Júnior.
 
 ##  Frontend & Web Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
